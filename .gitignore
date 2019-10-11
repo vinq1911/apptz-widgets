@@ -1,3 +1,4 @@
+.gitignore
 **/log
 **/.ssh/
 .bash_history
