@@ -1,0 +1,7 @@
+
+  <div class="uk-panel uk-panel-box">
+    <div class="uk-panel-badge uk-badge">%WAITTIME%</div>
+    <h3 class="uk-panel-title">%STARTDATE%</h3>
+    <p class="uk-text-primary">%STARTTIME% - %ENDTIME%</p>
+    <p class="uk-text-small">ID: %RESID%</p>
+  </div>
